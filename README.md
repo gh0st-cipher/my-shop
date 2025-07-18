@@ -1,4 +1,4 @@
-# MyShop
+# MyShop For Hackers!
 
 Welcome to MyShop! This is a simple e-commerce app with a React frontend and Node.js/Express backend. Follow these steps to run the project locally.
 

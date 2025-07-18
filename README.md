@@ -6,7 +6,7 @@ Welcome to MyShop! This is a simple e-commerce app with a React frontend and Nod
 
 ## 1. Download and unzip the project
 - Download the zip file from GitHub.
-- Unzip it to your desired location (e.g., `E:/ranjith projects/MyShop`).
+- Unzip it to your desired location (e.g., `E:/Folder/MyShop`).
 - Open the unzipped folder in VS Code or your editor.
 
 ## 2. Install dependencies
